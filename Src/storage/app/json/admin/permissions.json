@@ -1,0 +1,43 @@
+[
+    "sections.viewAny",
+    "sections.create",
+    "sections.update",
+    "sections.delete",
+
+    "products.viewAny",
+    "products.view",
+    "products.create",
+    "products.update",
+    "products.delete",
+
+    "products.offers.viewAny",
+    "products.offers.create",
+    "products.offers.update",
+    "products.offers.delete",
+
+    "coupons.viewAny",
+    "coupons.create",
+    "coupons.update",
+    "coupons.delete",
+
+    "products.repositories.viewAny",
+    "products.repositories.create",
+    "products.repositories.delete",
+
+    "sliders.viewAny",
+    "sliders.create",
+    "sliders.update",
+    "sliders.delete",
+
+    "orders.viewAny",
+    "orders.view",
+    "orders.changeState",
+
+    "users.viewAny",
+    "users.create",
+    "users.update",
+    "users.delete",
+
+    "settings.viewAny",
+    "settings.update"
+]

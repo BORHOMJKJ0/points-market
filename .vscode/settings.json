@@ -1,0 +1,13 @@
+{
+    "cSpell.ignoreWords": [],
+
+    "LaravelExtraIntellisense.basePath": "C:\\xampp\\htdocs\\Ramq\\Src",
+    "LaravelExtraIntellisense.basePathForCode": "C:\\xampp\\htdocs\\Ramq\\Src",
+    "laravel_goto_view.folders": {
+        "default": "/Src/resources/views",
+        "vendor": "/Src/resources/views/vendor"
+    },
+    "laravel_goto_controller.pathController": "/Src/app/Http/Controllers",
+
+    "cSpell.words": [],
+}

@@ -1,0 +1,26 @@
+{
+    "general": {
+        "files": [
+
+        ],
+        "inputs": [
+            "about"
+        ]
+    },
+    "admin_panel": {
+        "files": [
+            "login_background"
+        ],
+        "inputs": [
+            "theme"
+        ]
+    },
+    "contact": {
+        "files": [
+
+        ],
+        "inputs": [
+            "email", "phone", "facebook", "twitter", "youtube", "instagram"
+        ]
+    }
+}
